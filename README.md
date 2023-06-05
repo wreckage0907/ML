@@ -1,1 +1,2 @@
-# ML
+My first Machine Learning (ML) Project 
+This code is specifically developed to handle two separate datasets of images: one for identifying harmful objects in a household and another for harmless objects. By leveraging the power of a Convolutional Neural Network (CNN), the code trains on these datasets to accurately classify objects as either harmful or harmless. The ultimate goal is to provide an automated system capable of distinguishing potential risks within a household environment.
